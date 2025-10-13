@@ -73,17 +73,20 @@ cd stream-meet
 ```bash
 npm install
 ```
-# or
+### or
 ```bash
 yarn
 ```
 
-###  Running Locally
+# Running Locally
 ```bash
 npm run dev
 ```
-# or
+### or
 ```bash
 yarn dev
 ```
-# Then open your browser at: http://localhost:3000/
+### Then open your browser at: http://localhost:3000/
+
+
+
