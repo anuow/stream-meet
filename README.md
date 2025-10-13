@@ -69,3 +69,11 @@ cd stream-meet
 npm install
 # or
 yarn
+
+###  Running Locally
+
+npm run dev
+# or
+yarn dev
+
+# Then open your browser at: http://localhost:3000/
