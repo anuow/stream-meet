@@ -120,3 +120,15 @@
     @apply bg-background text-foreground;
   }
 }
+
+@theme {
+  --color-dark-1: #1C1F2E;
+  --color-dark-2: #161925;
+  
+}
+
+@theme {
+  --color-blue-1: #0E78F9;
+  
+  
+}
