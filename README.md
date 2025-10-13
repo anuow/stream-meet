@@ -58,22 +58,32 @@ It features a responsive UI, dynamic routing, and a scalable structure ready for
 
 ###  Installation
 
-```bash
+
 # Clone the repository
+```bash
 git clone https://github.com/your-username/stream-meet.git
+```
 
 # Navigate to the project directory
+```bash
 cd stream-meet
+```
 
 # Install dependencies
+```bash
 npm install
+```
 # or
+```bash
 yarn
+```
 
 ###  Running Locally
-
+```bash
 npm run dev
+```
 # or
+```bash
 yarn dev
-
+```
 # Then open your browser at: http://localhost:3000/
