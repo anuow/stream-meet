@@ -9,6 +9,10 @@
   .flex-between {
     @apply flex items-center justify-between;
   }
+
+  .bg-hero {
+    background-image: url('/images/hero-background.png');
+  }
 }
 
 @custom-variant dark (&:is(.dark *));
@@ -134,14 +138,23 @@
 @theme {
   --color-dark-1: #1C1F2E;
   --color-dark-2: #161925;
-  
+  --color-dark-3: #252A41;
+  --color-dark-4: #1E2757;
+
+  --color-blue-1: #0E78F9;
+ 
+  --color-sky-1: #C9DDFF;
+  --color-sky-2: #ECF0FF;
+  --color-sky-3: #F5FCFF;
+
+  --color-orange-1: #FF742E;
+
+  --color-purple-1: #830EF9;
+
+   --color-yellow-1: #F9A90E;
 }
 
-@theme {
-  --color-blue-1: #0E78F9;
-  
-  
-}
+
 
 /* ======== stream css overrides ======== */
 .str-video__call-stats {
